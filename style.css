@@ -1,0 +1,11 @@
+#cabeça{
+    height: 50px;
+    width: 100vw;
+    background-color: gray;
+    margin: 0px;
+    display:flex;
+    gap: 30px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+}
